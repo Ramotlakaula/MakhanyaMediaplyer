@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1fcc36e9-0ed7-44f7-8f94-dbd307888bb0" name="Changes" comment="MakhanyaRamotlakaula" />
+    <list default="true" id="1fcc36e9-0ed7-44f7-8f94-dbd307888bb0" name="Changes" comment="MakhanyaRamotlakaula">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,11 +39,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/example/makhanyavideo" />
     <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Makhanya R\IdeaProjects\Makhanyavideo\src\main\java\com\example\makhanyavideo" />
       <recent name="C:\Users\Makhanya R\IdeaProjects\Makhanyavideo\src\main\resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -91,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652379668748</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="MakhanyaRamotlakaula">
+      <created>1652379888689</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1652379888689</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
