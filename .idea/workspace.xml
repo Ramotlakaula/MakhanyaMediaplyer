@@ -4,61 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1fcc36e9-0ed7-44f7-8f94-dbd307888bb0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Makhanyavideo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/makhanyavideo/HelloApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/makhanyavideo/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/1149638.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/1177938.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/1262172.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/1384060.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/1666706.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/186767.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/189890.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/2402443.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/2437527.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/3039386.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/3293810.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/4211419.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/4340228.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/4340450.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/440796.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/5495002.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/5733494.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/6059214.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/7347198.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/7381482.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/7381517.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/7390640.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/7405861.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/832642.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Advance.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Play.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/School.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/back.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/delete.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/hello-view.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/makhanya.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/next.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/pause.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/shuffle.png" afterDir="false" />
-    </list>
+    <list default="true" id="1fcc36e9-0ed7-44f7-8f94-dbd307888bb0" name="Changes" comment="MakhanyaRamotlakaula" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -125,6 +77,21 @@
       <option name="presentableId" value="Default" />
       <updated>1651688833696</updated>
     </task>
+    <task id="LOCAL-00001" summary="MakhanyaRamotlakaula">
+      <created>1652379635646</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652379635646</updated>
+    </task>
+    <task id="LOCAL-00002" summary="MakhanyaRamotlakaula">
+      <created>1652379668748</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652379668748</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -137,6 +104,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="MakhanyaRamotlakaula" />
+    <option name="LAST_COMMIT_MESSAGE" value="MakhanyaRamotlakaula" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
