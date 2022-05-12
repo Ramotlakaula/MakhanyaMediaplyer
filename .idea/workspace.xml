@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1fcc36e9-0ed7-44f7-8f94-dbd307888bb0" name="Changes" comment="MediaAppMakhanya" />
+    <list default="true" id="1fcc36e9-0ed7-44f7-8f94-dbd307888bb0" name="Changes" comment="Assignment" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -113,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652382168056</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Assignment two">
+      <created>1652382277462</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1652382277463</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,7 +138,8 @@
     <MESSAGE value="MakhanyaRamotlakaula" />
     <MESSAGE value="Mediaplayer" />
     <MESSAGE value="MediaAppMakhanya" />
-    <option name="LAST_COMMIT_MESSAGE" value="MediaAppMakhanya" />
+    <MESSAGE value="Assignment two" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment two" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
