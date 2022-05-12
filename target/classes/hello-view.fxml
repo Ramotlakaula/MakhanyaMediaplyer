@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.ButtonBar?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Slider?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.media.MediaView?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="1109.0" prefWidth="4132.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.makhanyavideo.HelloController">
+   <top>
+      <AnchorPane prefHeight="908.0" prefWidth="3864.0" BorderPane.alignment="CENTER">
+         <children>
+            <VBox fx:id="box" alignment="CENTER" prefHeight="464.0" prefWidth="569.0">
+               <children>
+                    <MediaView fx:id="mediaView" disable="true" fitHeight="350.0" fitWidth="550.0" />
+                  <Slider fx:id="prograssbar" />
+                  <VBox fx:id="bor" prefHeight="69.0" prefWidth="554.0">
+                     <children>
+
+                          <HBox fx:id="man" alignment="TOP_CENTER" prefHeight="69.0" prefWidth="503.0" spacing="30.0">
+                              <children>
+                              <HBox fx:id="bord" prefHeight="44.0" prefWidth="175.0">
+                                 <children>
+                                    <ButtonBar fx:id="tab" prefHeight="49.0" prefWidth="43.0">
+                                       <buttons>
+                                          <HBox fx:id="bestview" prefHeight="44.0" prefWidth="87.0">
+                                             <children>
+                                                <ButtonBar fx:id="nna" prefHeight="50.0" prefWidth="113.0">
+                                                  <buttons>
+                                                      <ImageView fx:id="playone" fitHeight="25.0" fitWidth="32.0" onMouseClicked="#playoneVideo" pickOnBounds="true" preserveRatio="true">
+                                                         <image>
+                                                            <Image url="@Play.png" />
+                                                         </image>
+                                                      </ImageView>
+                                                      <ImageView fx:id="pausebtn" fitHeight="24.0" fitWidth="32.0" onMouseClicked="#pausebtnVideo" pickOnBounds="true" preserveRatio="true">
+                                                         <image>
+                                                            <Image url="@7347198.png" />
+                                                         </image>
+                                                      </ImageView>
+                                                      <ImageView fx:id="oneplay" fitHeight="24.0" fitWidth="40.0" onMouseClicked="#oneplayered" pickOnBounds="true" preserveRatio="true">
+                                                         <image>
+                                                            <Image url="@pause.png" />
+                                                         </image>
+                                                      </ImageView>
+                                                  </buttons>
+                                                </ButtonBar>
+                                             </children>
+                                          </HBox>
+                                       </buttons>
+                                    </ButtonBar>
+                                 </children>
+                              </HBox>
+                              <ButtonBar prefHeight="49.0" prefWidth="372.0">
+                                <buttons>
+                                    <Slider fx:id="volumeSlider" onMouseClicked="#volumeSliderVolume" prefHeight="24.0" prefWidth="100.0" value="10.0" />
+                                    <Label fx:id="durationlab" prefHeight="36.0" prefWidth="182.0" />
+                                </buttons>
+                              </ButtonBar>
+                              </children>
+                              <padding>
+                                  <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+                              </padding>
+                          </HBox>
+                     </children>
+                  </VBox>
+               </children>
+            </VBox>
+         </children></AnchorPane>
+   </top>
+</BorderPane>
