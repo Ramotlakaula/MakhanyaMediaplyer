@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1fcc36e9-0ed7-44f7-8f94-dbd307888bb0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Makhanyavideo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/makhanyavideo/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/makhanyavideo/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/1149638.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/1177938.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/1262172.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/1384060.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/1666706.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/186767.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/189890.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/2402443.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/2437527.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/3039386.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/3293810.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/4211419.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/4340228.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/4340450.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/440796.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/5495002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/5733494.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/6059214.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/7347198.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/7381482.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/7381517.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/7390640.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/7405861.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/832642.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Advance.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Play.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/School.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/delete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/makhanya.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/next.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/pause.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/shuffle.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/resources/hello-view.fxml" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28iA2vXBv6ej4jo3MWWqBldk48W" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Makhanya R\IdeaProjects\Makhanyavideo\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Makhanya R\IdeaProjects\Makhanyavideo\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.makhanyavideo.HelloApplication" />
+      <module name="Makhanyavideo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.makhanyavideo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HelloApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1fcc36e9-0ed7-44f7-8f94-dbd307888bb0" name="Changes" comment="" />
+      <created>1651688833696</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651688833696</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

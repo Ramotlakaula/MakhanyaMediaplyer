@@ -1,0 +1,94 @@
+.root {
+    -fx-background-color: #A0c0c0;
+}
+
+
+#volumeSlider{
+       -fx-cursor: hand;
+}
+#pausebtn{
+      -fx-padding:10px;
+      -fx-border-width:1px;
+      -fx-border-radius:40px;
+      -fx-background-radius:20px;
+      -fx-cursor: hand;
+      -fx-background-color:#E57373;
+      -fx-border-color: #c6c9c8;
+      -fx-effect: dropshadow(three-pass-box,black,10,0,0,1);
+}
+#oneplay{
+      -fx-padding:10px;
+      -fx-border-width:1px;
+      -fx-border-radius:40px;
+      -fx-cursor: hand;
+      -fx-background-radius:20px;
+      -fx-background-color:#E57373;
+      -fx-border-color: #c6c9c8;
+      -fx-effect: dropshadow(three-pass-box,black,10,0,0,1);
+}
+#playone{
+      -fx-padding:10px;
+      -fx-border-width:1px;
+      -fx-border-radius:40px;
+      -fx-cursor: hand;
+      -fx-background-radius:20px;
+      -fx-background-color:#E57373;
+      -fx-border-color: #c6c9c8;
+      -fx-effect: dropshadow(three-pass-box,black,10,0,0,1);
+}
+#nna{
+     -fx-padding:10px;
+     -fx-border-width:1px;
+     -fx-border-radius:40px;
+     -fx-cursor: hand;
+     -fx-background-radius:40px;
+     -fx-border-size:20px;
+     -fx-background-color:#A0c0c0;
+     -fx-border-color: #ff0000;
+     -fx-translate-y:-2;
+}
+#mediaView{
+     -fx-padding:10px;
+     -fx-border-width:1px;
+     -fx-border-radius:40px;
+     -fx-background-radius:20px;
+     -fx-background-color:#FF0000;
+     -fx-border-color: #c6c9c8;
+     -fx-translate-y:-2;
+}
+#durationlab{
+      -fx-padding:10px;
+      -fx-border-width:1px;
+      -fx-cursor: hand;
+      -fx-border-color: #c6c9c8;
+}
+#prograssbar{
+     -fx-padding:10px;
+     -fx-border-width:1px;
+     -fx-cursor: hand;
+     -fx-border-radius:40px;
+     -fx-background-radius:2px;
+     -fx-background-color:#A0c0c0;
+     -fx-border-color: #c6c9c8;
+}
+#box{
+     -fx-padding:10px;
+     -fx-border-width:1px;
+      -fx-background-radius:2px;
+     -fx-background-color:#000000;
+     -fx-border-color: #c6c9c8;
+}
+
+#imageview{
+     -fx-font-size: 20px;
+     -fx-cursor: hand;
+     -fx-padding: 1px 5px;
+     -fx-border-radius:40px;
+     -fx-background-radius:20px;
+     -fx-border-width: 1px;
+     -fx-border-color: #E57373;
+     -fx-border-radius: 5px;
+}
+
+
+
